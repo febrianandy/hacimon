@@ -1,0 +1,17 @@
+{
+    "name": "hacimon/io",
+    "description": "ini adalah project company profile hacimon io",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hacimon\\Io\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "febrian",
+            "email": "febyianandy@gmai.com"
+        }
+    ],
+    "require": {}
+}
